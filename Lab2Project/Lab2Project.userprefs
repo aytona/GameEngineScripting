@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\Scripts\Projectile.cs">
+    <Files>
+      <File FileName="Assets\MyAssets\Scripts\Projectile.cs" Line="6" Column="25" />
+      <File FileName="Assets\MyAssets\Scripts\Rotation.cs" Line="4" Column="2" />
+      <File FileName="Assets\MyAssets\Scripts\Turret.cs" Line="53" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

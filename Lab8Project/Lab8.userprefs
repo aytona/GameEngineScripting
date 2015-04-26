@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\Scripts\Player\PlatformerCharacterController.cs">
+    <Files>
+      <File FileName="Assets\MyAssets\Scripts\Player\AnimationEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\Player\PlatformerCharacterController.cs" Line="160" Column="33" />
+      <File FileName="Assets\MyAssets\Scripts\Utilities\SmoothFollow2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\Level\MovingPlatform.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Christopher\Desktop\Lab8\Assets\RendererSortingLayer\Editor\RendererSortingLayerInspectorGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\Level\Door.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="MyAssets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player" expanded="True">
+                  <Node name="PlatformerCharacterController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

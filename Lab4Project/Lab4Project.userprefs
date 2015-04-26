@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\Christopher\Desktop\Assignment2\Assets\MyAssets\Scripts\Level\Turret.cs">
+    <Files>
+      <File FileName="C:\Users\Christopher\Desktop\Assignment2\Assets\MyAssets\Scripts\Level\Turret.cs" Line="45" Column="40" />
+      <File FileName="C:\Users\Christopher\Desktop\Assignment2\Assets\MyAssets\Scripts\Player\PlatformerCharacterController.cs" Line="136" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
